@@ -1,4 +1,4 @@
-# Ruby codes
+<h2 align=center>Ruby codes</h2>
 
 ***v1.0.0***
 
