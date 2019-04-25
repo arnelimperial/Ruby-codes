@@ -1,4 +1,4 @@
-# Symmetrical-Spork
+# Ruby codes
 
 ***v1.0.0***
 
@@ -12,5 +12,10 @@ Console apps, snippets and mini-projects created for implementing Algorithms and
 
 ---
 
-### Coded by:
-Arnel Gonzales Imperial
+
+#### License 
+zlib
+
+
+### Coder:
+Arnel Imperial
